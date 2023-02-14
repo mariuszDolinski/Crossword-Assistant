@@ -5,8 +5,7 @@ App was made years ago with probably very inefficient way :)
 
 <h3>Technology used</h3>
 <ul>
-<li>Microsoft Visual Studio 2022</li>
-<li>.Net 6.0</li>
+<li>Microsoft Visual Studio 2010</li>
 <li>Windows Forms</li>
 <li>C#</li>
 </ul>
